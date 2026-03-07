@@ -19,6 +19,3 @@ Student | C# & .NET Backend Developer
 ## Projects
 | Project | Description | Stack |
 |---------|-------------|-------|
-
-## GitHub Stats
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemuw&show_icons=true&theme=tokyonight&hide_border=true)
