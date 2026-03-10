@@ -17,5 +17,7 @@ Student | C# & .NET Backend Developer
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ## Projects
+
 | Project | Description | Stack |
-| [Wealth Tracker](https://github.com/aemuw/wealth-tracker) |Desktop application for tracking personal finances, assets and net worth with a simple UI|C#, .Net, Windows Forms|
+|--------|-------------|------|
+| [Wealth Tracker](https://github.com/aemuw/wealth-tracker) | Personal finance tracker with MVP architecture, async operations and unit tests. | C#, .NET, WinForms |
