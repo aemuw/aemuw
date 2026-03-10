@@ -1,5 +1,7 @@
 # Hi, I'm Artem
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=C%23+.NET+Developer;Backend+Developer;Building+Desktop+Apps;Learning+ASP.NET+Core&center=true&width=520&height=45)
+
 Student | C# & .NET Backend Developer
 
 ## About Me
