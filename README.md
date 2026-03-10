@@ -2,9 +2,9 @@
 
 Student | C# & .NET Backend Developer
 
-## About Me
+## About
 - College student, software development
-- Main stack: C#, .NET, Windows Forms, C++
+- Main stack: C#, .NET, Entity Framework Core, Git, WinForms, C++
 - Berdychiv, Ukraine
 
 ## Currently Learning
@@ -13,7 +13,7 @@ Student | C# & .NET Backend Developer
 - Async / Await
 - Unit Testing
 
-## Technologies
+## Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -28,6 +28,4 @@ Student | C# & .NET Backend Developer
 
 ## GitHub Stats
 ![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemuw&show_icons=true&theme=default)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemuw&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aemuw&layout=compact)
