@@ -18,4 +18,4 @@ Student | C# & .NET Backend Developer
 
 ## Projects
 | Project | Description | Stack |
-|---------|-------------|-------|
+| [Wealth Tracker](https://github.com/aemuw/wealth-tracker) |Desktop application for tracking personal finances, assets and net worth with a simple UI|C#, .Net, Windows Forms|
