@@ -1,12 +1,17 @@
-# Hi, I'm Artem 👋
+# Hi, I'm Artem
 
 Student | C# & .NET Backend Developer
 
 ## About Me
 - College student, software development
-- Main stack: C# .NET, Windows Forms, C++
-- Currently learning: async/await, Entity Framework Core, ASP.NET Core
+- Main stack: C#, .NET, Windows Forms, C++
 - Berdychiv, Ukraine
+
+## Currently Learning
+- ASP.NET Core
+- Entity Framework Core
+- Async / Await
+- Unit Testing
 
 ## Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -17,7 +22,12 @@ Student | C# & .NET Backend Developer
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ## Projects
-
 | Project | Description | Stack |
 |--------|-------------|------|
 | [Wealth Tracker](https://github.com/aemuw/wealth-tracker) | Personal finance tracker with MVP architecture, async operations and unit tests. | C#, .NET, WinForms |
+
+## GitHub Stats
+![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemuw&show_icons=true&theme=default)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemuw&layout=compact)
