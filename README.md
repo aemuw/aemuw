@@ -25,6 +25,7 @@ Student | C# & .NET Backend Developer
 | Project | Description | Stack |
 |--------|-------------|------|
 | [Wealth Tracker](https://github.com/aemuw/wealth-tracker) | Personal finance tracker with MVP architecture, async operations and unit tests. | C#, .NET, WinForms |
+| [Huntly](https://github.com/aemuw/huntly) | Job application tracker with Clean Architecture, PostgreSQL, Docker and JWT auth. | C#, .NET, PostgreSQL, Docker |
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aemuw&show_icons=true&theme=default)
