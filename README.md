@@ -27,5 +27,5 @@ Student | C# & .NET Backend Developer
 | [Wealth Tracker](https://github.com/aemuw/wealth-tracker) | Personal finance tracker with MVP architecture, async operations and unit tests. | C#, .NET, WinForms |
 
 ## GitHub Stats
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemuw&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aemuw&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aemuw&layout=normal&theme=default)
